@@ -2,16 +2,15 @@
 templateKey: index-page
 title: Lightmind
 image: /img/amp.jpg
-#image: /img/home-jumbotron.jpg
 heading: Craft for the digital age
 subheading: Professional development services for custom projects
 mainpitch:
   title: Why Lightmind
   description: >
-    Rupert Meese is an independent developer that can make things happen across the full web stack and IoT space.  Rupert has over 25 years of experience working in technologies from assembly language to tensorflow.
-
-description: >-
-  Specialising in Ruby on Rails and React.js web development.
+    Rupert Meese is an independent developer that can make things happen across
+    the full web stack and IoT space.  Rupert has over 25 years of experience
+    working in technologies from assembly language to tensorflow.
+description: Specialising in Ruby on Rails and React.js web development.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -21,12 +20,6 @@ intro:
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -50,3 +43,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
